@@ -1,0 +1,18 @@
+Day 1 – UNIX Basics & Environment		
+1	Introduction to UNIX Operating System	Overview, History, Features
+2	Operating System Architecture & Components	Kernel, Shell, File System, User space
+3	Basic UNIX Commands	pwd, ls, cd, cp, mv, rm, mkdir, rmdir, echo, man
+4	Writing First Shell Script	Create simple Hello World script, Save & Run
+5	UNIX File System	Hierarchical structure, Navigation, File Types
+6	File Permissions & I-node entries	chmod, chown, chgrp, stat command
+7	File Related Commands	cat, touch, wc, more, less
+8	Pipe Concept	stdin, stdout, stderr, piping ('')
+9	UNIX Environment	Shell types (bash, Korn, C), System variables, Set options
+10	The Process & Job Control	ps, top, bg, fg, kill, nohup, jobs
+11	Scheduling Jobs	Cron scheduler basics, at command
+12	Filters – Basics	grep, head, tail, tr
+13	Filters – Advanced	sort, find
+14	Tools & Regular Expressions	sed, awk (basic usage)
+15	Search Operations	File search, recursive/nested search
+16	Basic OS Monitoring	CPU/memory (top, vmstat), threads, storage (df, du)
+17	Vi Editor	Modes, Input commands, Cursor movement, Save & Quit
